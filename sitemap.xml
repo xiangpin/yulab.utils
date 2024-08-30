@@ -10,6 +10,7 @@
 <url><loc>/reference/get_dependencies.html</loc></url>
 <url><loc>/reference/get_fun_from_pkg.html</loc></url>
 <url><loc>/reference/github-pkg.html</loc></url>
+<url><loc>/reference/has_internet.html</loc></url>
 <url><loc>/reference/index.html</loc></url>
 <url><loc>/reference/install_zip.html</loc></url>
 <url><loc>/reference/install_zip_gh.html</loc></url>
@@ -27,6 +28,7 @@
 <url><loc>/reference/scale_range.html</loc></url>
 <url><loc>/reference/scihub-dl.html</loc></url>
 <url><loc>/reference/show_in_excel.html</loc></url>
+<url><loc>/reference/str-detect.html</loc></url>
 <url><loc>/reference/str-extract.html</loc></url>
 <url><loc>/reference/str-starts-ends.html</loc></url>
 <url><loc>/reference/str_wrap.html</loc></url>
